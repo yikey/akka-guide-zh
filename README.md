@@ -35,4 +35,7 @@
     * [使用TCP](networking/using-tcp.md)
 
 本指南参考官方文档（scala版）2.3.9，详见[官方文档](http://akka.io/docs/)
+# 收藏的一些链接
+----------------------
+[收藏链接汇总](articled/link.md) 
 
